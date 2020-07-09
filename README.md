@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Sam. I'm a CS student at the University of Alabama, and a React, Rails, Javascript/Typescript, and Rust developer.
+
 <!--
 **samwightt/samwightt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
