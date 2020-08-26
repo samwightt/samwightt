@@ -6,8 +6,8 @@ My name is Sam. I'm a CS student at the University of Alabama, and a React, Rail
 
 Here's what I'm working on now, in order of priority:
 
-- [Wont](https://wont.app/), a new take on habit tracking.
 - [Chorale](https://github.com/samwightt/chorale), a blazing-fast Notion renderer that's almost twice as fast as any alternative.
+- [Wont](https://wont.app/), a new take on habit tracking.
 - [Ibis](https://github.com/samwightt/ibis), a documentation package manager.
 
 # Where I'm at online
