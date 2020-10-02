@@ -12,10 +12,6 @@ Here's what I'm working on now, in order of priority:
 
 # What I've Done
 
-## **[The Nine](https://nine.is)** *(Software Engineer)*: August 2020 - Present
-
-I currently work at The Nine as a software engineer, where I'm helping build a new version of their custom CMS, Forma. I also use my CSS wizardry to build client websites every so often 😉
-
 ## **[Blueprint at UA](https://blueprintatua.org/)** *(Founder and President)*: September 2019 - Present
 
 Blueprint at UA is a student organization at The University of Alabama that creates open-source software for nonprofits. I founded the organization in September of 2019 and currently serve as president, serving on the exec team to oversee the direction of the organization. our exec team oversees and assists our developments teams, plans events for our members, and works with our nonprofit partners to make sure their needs are being met.
